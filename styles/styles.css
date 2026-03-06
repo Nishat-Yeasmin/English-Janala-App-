@@ -1,0 +1,13 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+.font-bangla{
+    font-family: "Hind Siliguri", sans-serif;
+}
+button{
+    cursor: pointer;
+}
+.active{
+    background-color: #422ad5;
+    color: white;
+}
